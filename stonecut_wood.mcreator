@@ -1,0 +1,421 @@
+{
+  "mod_elements": [
+    {
+      "name": "OakLogToPlankStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_log_to_plank_stairs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/oak_log_to_plank_stairs.json"
+        ]
+      },
+      "path": "~/Oak"
+    },
+    {
+      "name": "OakLogToPlankSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_log_to_plank_slabs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/oak_log_to_plank_slabs.json"
+        ]
+      },
+      "path": "~/Oak"
+    },
+    {
+      "name": "BirchLogToPlankStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_log_to_plank_stairs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/birch_log_to_plank_stairs.json"
+        ]
+      },
+      "path": "~/Birch"
+    },
+    {
+      "name": "JungleLogToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_log_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/jungle_log_to_planks.json"
+        ]
+      },
+      "path": "~/Jungle"
+    },
+    {
+      "name": "JungleLogToSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_log_to_slabs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/jungle_log_to_slabs.json"
+        ]
+      },
+      "path": "~/Jungle"
+    },
+    {
+      "name": "JungleLogToStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_log_to_stairs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/jungle_log_to_stairs.json"
+        ]
+      },
+      "path": "~/Jungle"
+    },
+    {
+      "name": "OakLogToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_log_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/oak_log_to_planks.json"
+        ]
+      },
+      "path": "~/Oak"
+    },
+    {
+      "name": "BirchLogToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_log_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/birch_log_to_planks.json"
+        ]
+      },
+      "path": "~/Birch"
+    },
+    {
+      "name": "BirchLogToPlankSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_log_to_plank_slabs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/birch_log_to_plank_slabs.json"
+        ]
+      },
+      "path": "~/Birch"
+    },
+    {
+      "name": "DarkOakLogToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_log_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/dark_oak_log_to_planks.json"
+        ]
+      },
+      "path": "~/Dark Oak"
+    },
+    {
+      "name": "DarkOakLogToSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_log_to_slabs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/dark_oak_log_to_slabs.json"
+        ]
+      },
+      "path": "~/Dark Oak"
+    },
+    {
+      "name": "DarkOakToStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_to_stairs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/dark_oak_to_stairs.json"
+        ]
+      },
+      "path": "~/Dark Oak"
+    },
+    {
+      "name": "SpruceToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/spruce_to_planks.json"
+        ]
+      },
+      "path": "~/Spruce"
+    },
+    {
+      "name": "SpruceToSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_to_slabs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/spruce_to_slabs.json"
+        ]
+      },
+      "path": "~/Spruce"
+    },
+    {
+      "name": "SpruceToStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_to_stairs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/spruce_to_stairs.json"
+        ]
+      },
+      "path": "~/Spruce"
+    },
+    {
+      "name": "PaleOakToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/pale_oak_to_planks.json"
+        ]
+      },
+      "path": "~/Pale Oak"
+    },
+    {
+      "name": "PaleOakToStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_to_stairs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/pale_oak_to_stairs.json"
+        ]
+      },
+      "path": "~/Pale Oak"
+    },
+    {
+      "name": "PaleOakToSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_to_slabs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/pale_oak_to_slabs.json"
+        ]
+      },
+      "path": "~/Pale Oak"
+    },
+    {
+      "name": "AcaciaToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/acacia_to_planks.json"
+        ]
+      },
+      "path": "~/Acacia"
+    },
+    {
+      "name": "AcaciaToSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_to_slabs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/acacia_to_slabs.json"
+        ]
+      },
+      "path": "~/Acacia"
+    },
+    {
+      "name": "AcaciaToStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_to_stairs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/acacia_to_stairs.json"
+        ]
+      },
+      "path": "~/Acacia"
+    },
+    {
+      "name": "MangroveToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/mangrove_to_planks.json"
+        ]
+      },
+      "path": "~/Mangrove"
+    },
+    {
+      "name": "MangroveToSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_to_slabs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/mangrove_to_slabs.json"
+        ]
+      },
+      "path": "~/Mangrove"
+    },
+    {
+      "name": "MangroveToStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_to_stairs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/mangrove_to_stairs.json"
+        ]
+      },
+      "path": "~/Mangrove"
+    },
+    {
+      "name": "CherryToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/cherry_to_planks.json"
+        ]
+      },
+      "path": "~/Cherry"
+    },
+    {
+      "name": "CherryToSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_to_slabs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/cherry_to_slabs.json"
+        ]
+      },
+      "path": "~/Cherry"
+    },
+    {
+      "name": "CherryToStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_to_stairs",
+      "metadata": {
+        "files": [
+          "src/main/data/stonecut_wood/recipe/cherry_to_stairs.json"
+        ]
+      },
+      "path": "~/Cherry"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Oak",
+        "children": []
+      },
+      {
+        "name": "Birch",
+        "children": []
+      },
+      {
+        "name": "Jungle",
+        "children": []
+      },
+      {
+        "name": "Dark Oak",
+        "children": []
+      },
+      {
+        "name": "Spruce",
+        "children": []
+      },
+      {
+        "name": "Pale Oak",
+        "children": []
+      },
+      {
+        "name": "Acacia",
+        "children": []
+      },
+      {
+        "name": "Mangrove",
+        "children": []
+      },
+      {
+        "name": "Cherry",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "stonecut_wood",
+    "modName": "Stonecut Wood",
+    "version": "1.0.0",
+    "description": "Allows for stone cutting logs to planks.",
+    "author": "LexianDEV",
+    "websiteURL": "https://lexian.dev",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.21.4",
+    "credits": "MCreator was used to help me create this datapack. (thx ^^)",
+    "modElementsPackage": "dev.lexian.stonecutwood"
+  },
+  "mcreatorVersion": 202500113416
+}

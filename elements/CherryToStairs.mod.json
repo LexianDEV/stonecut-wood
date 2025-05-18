@@ -1,0 +1,22 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.CHERRY_LOG"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.CHERRY_STAIRS"
+    },
+    "name": "cherry_to_stairs",
+    "namespace": "mod"
+  }
+}

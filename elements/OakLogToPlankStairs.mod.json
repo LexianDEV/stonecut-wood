@@ -1,0 +1,22 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.LOG#0"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.OAK_STAIRS"
+    },
+    "name": "oak_log_to_plank_stairs",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.LOG#3"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.WOODEN_SLAB#3"
+    },
+    "name": "jungle_log_to_slabs",
+    "namespace": "mod"
+  }
+}
